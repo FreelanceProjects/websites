@@ -1,0 +1,249 @@
+/*
+Name: Main CSS file for wp-shop plugin. Enjoy:)
+Author: Igor Bobko
+Author URI: http://www.activebob.ru
+*/
+
+.wpshop_buy td 
+{
+	/*display:table-cell;*/
+	padding:5px;
+	/*text-align:left;*/
+	text-indent:0;
+}	
+
+.vitrina_element
+{
+	padding: 0px 20px 0px 0px;
+	border-color: rgb(170, 170, 170);
+	height: 100%;
+	margin-top: 10px;
+	margin-left: 10px;
+	border-style: none dotted dotted none;
+	border-width: 1px;	
+}
+
+.vitrina_header a
+{
+	text-decoration:none;
+	display:table-cell;
+    vertical-align:middle;
+}
+
+.vitrina_detail
+{
+	margin-top:20px;
+}
+
+.wpshop_count input
+{
+	font-size:11px;
+	height:15px;
+	width:20px;
+}
+
+.price_table
+{
+	width:100%;
+}
+
+.wpshop_mini_sum
+{
+	float:left;
+	margin:5px;
+}
+.wpshop_mini_count
+{
+	margin:5px;
+	float:left;
+}
+
+#wpshop_minicart
+{
+	float:left;
+}
+.minicart
+{
+	margin:5px;
+}
+
+.widgettitle
+{
+	font-size:14px;
+}
+
+.discount_row
+{
+	color:green;
+}
+
+
+.wpshop_buy_new .wpshop_price
+{
+	padding:1px;
+}
+
+.wpshop_buy_new .wpshop_count
+{
+	padding:3px;
+}
+
+.wpshop_buy_new .wpshop_button
+{
+	padding:1px;
+}
+
+.
+wpshop_bag
+{
+	margin:0px;
+	max-width:280px;	
+}
+
+.wpshop_post_block
+{
+	float:right;
+}
+
+.wpshop_table_td .wpshop_bag 
+{
+	float:right;
+}
+
+.over_wpshop_buy
+{
+	overflow:hidden;
+}
+
+.wpshop_post_block .over_wpshop_buy
+{
+	float:left;
+}
+.wpshop_post_block .wpshop_buy
+{
+	float:right;
+}
+
+.wpshop_buy_new td
+{
+	vertical-align:middle !important;
+}
+
+.vitrina_element .wpshop_bag
+{
+	float:none;
+}
+.wpshop_properties{	overflow:hidden;}
+.wpshop_properties dt
+{
+	float:left;
+	margin:5px;
+}
+
+/*Admin*/
+#wp-shop-p-editing table td
+{
+	padding:5px;
+}
+
+#wpshop-wpfield{	width:200px;}
+
+
+.wpshop_plus_icon
+{
+	background-image:url("images/plus_icon.gif");
+}
+
+.wpshop_minus_icon
+{
+	background-image: url("images/minus_icon.gif");
+}
+
+.wpshop_animate_icon
+{
+	background-color: #C4D2E1;
+	width:17px;
+	height:17px;
+	cursor: pointer;
+}
+
+#wpshop_order_info
+{
+	float:left;
+}
+
+#wpshop_order_info div
+{
+	margin:10px;
+	font-size:18px;
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+}
+
+#wpshop_orders_list td
+{
+	padding: 5px;
+}
+
+.wpshop_pagers
+{
+	
+}
+
+.wpshop_pagers li
+{
+	background-color: #DFDFDF;
+	float: left;
+	margin:3px;
+	font-size:16px;
+	padding:3px; 
+	border: 1px solid #21759B;
+}
+
+.cart-payments li
+{
+/*
+	border-top: 0;
+	border-left: 0;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+*/
+	border: 1px solid;
+	
+	list-style-type: none;
+	margin-left:0px;
+	padding:10px;
+	float: left;
+}
+
+#mode-paymets-title
+{
+	padding: 5px;
+	margin-top: 5px;
+	background-color: #EEEEEE;
+	border:1px solid;
+	font-weight: bold;
+}
+
+#payments-table
+{
+	border-collapse: collapse;
+	margin-top:15px;
+	width: 520px;
+}
+
+#payments-table a
+{
+	text-decoration:none;
+}
+
+#payments-table td, #payments-table th
+{
+	border: 1px solid;
+	padding:5px;
+	text-align: center;
+}
+
+.inside
+{
+	overflow:hidden;
+}

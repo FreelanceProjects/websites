@@ -1,0 +1,222 @@
+.vitrina_element
+{
+	background: url('images/sticker.png');
+	width:255px;
+	padding:5px;
+	margin:5px;
+	border: #EEEEEE 1px solid;
+	overflow:hidden;
+}
+
+.vitrina_header
+{
+	background: #EEEEEE;
+	font-weight:bold;
+	height:50px;
+	display:table-cell;
+	text-align:center;
+	width:100%;
+	vertical-align:middle;
+}
+
+.vitrina_header a
+{
+	color:black;
+	text-decoration:none;
+	width:255px;
+}
+.shopwindow_content
+{
+	margin:10px;
+	font-size:11px;
+}
+
+.vitrina_image
+{
+	text-align:center;
+}
+.vitrina_image img
+{
+	border:0px;
+}
+
+.wpshop_caption a
+{
+	font-size:11px;
+	text-align:left;
+	color:#736800;
+}
+
+td .wpshop_price
+{
+	font-size:15px;
+	font-weight:bold;
+	text-align:right;
+}
+
+.wpshop_count input
+{
+	font-size:11px;
+	height:9px;
+}
+
+.vitrina_detail
+{
+	margin:5px;
+}
+
+.wpshop_buy
+{
+	background:#EFEFEF;
+	padding: 7px;
+	text-align:left;
+	position:relative;
+}
+
+.wpshop_buy table
+{
+	width:100%;
+	background:#EFEFEF;
+}
+
+.wpshop_buy td
+{
+	background-color:#EFEFEF !important;
+}
+
+.post .wpshop_bag,.Post .wpshop_bag
+{
+	float:right;
+	margin: 5px;
+}
+
+.post .wpshop_buy td
+{
+	padding:2px;
+	
+}
+
+.price_table
+{
+	width:700px;
+}
+
+.wpshop_buy td
+{
+	border-style: none none dashed none;
+	border-width:1px;
+}
+
+.wpshop_button
+{
+	width:15px;
+	height:14px;
+}
+
+.wpshop_button a
+{
+	background: url("../i/bag.png");
+	width:30px;
+	height:30px;
+	display:block;
+	text-decoration:none;
+}
+
+.wpshop_mini_sum
+{
+	float:left;
+	margin:5px;
+}
+.wpshop_mini_count
+{
+	margin:5px;
+	float:left;
+}
+.wpshop_widget
+{
+	/*padding-left:100px;*/
+}
+
+.wpshop_mini_under
+{
+	/*clear:both;*/
+}
+
+#wpshop_minicart
+{
+	float:left;
+}
+.minicart
+{
+	margin:5px;
+}
+
+.discount_row
+{
+	color:green;
+}
+.wpshop_buy_new .wpshop_button a
+{
+	background: url("../i/bag.png");
+	width:32px;
+	height:32px;
+}
+
+.wpshop_buy_new .wpshop_price
+{
+	padding:1px;
+}
+
+.wpshop_count
+{
+	width:20px;
+}
+
+.wpshop_buy_new .wpshop_count
+{
+	padding:1px;
+}
+
+.wpshop_buy_new .wpshop_button
+{
+	padding:1px;
+}
+
+.vitrina_element .wpshop_buy
+{
+	float:none;
+	margin:0px;
+}
+
+.wpshop_buy
+{
+	min-width:170px;
+}
+
+.recycle_bin td
+{
+	border:1px dotted !important;
+	padding:10px;
+}
+
+.recycle_bin th
+{
+	background: #EFEFEF;
+}
+
+.recycle_bin thead tr
+{
+	border:1px dotted !important;
+}
+
+.price_table .wpshop_buy , .price_table .wpshop_buy td,.price_table .wpshop_buy table
+{
+	background-color:Transparent !important;
+}
+
+.wpshop_buy_new , .wpshop_buy_new td, .wpshop_buy_new table
+{
+	background-color:Transparent !important;
+}
+.wpshop_bag_img {background: url(../i/shopping_cart.png) center center no-repeat; width:90px; height:90px; padding-top:0; padding-left:20px;}
+ 
